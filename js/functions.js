@@ -55,5 +55,3 @@ const addSymbolToStroke = (string,minLength,symbol) => {
 };
 
 addSymbolToStroke ('qwerty', 4, '0');
-
-
